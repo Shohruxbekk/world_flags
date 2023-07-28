@@ -1,0 +1,286 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;500;600;700;800;900&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito Sans', sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+
+.top {
+    margin: 0 auto;
+    width: 1440px;
+    height: 80px;
+    background: #2B3844;
+    padding: 25px 80px;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: space-between;
+
+
+
+
+}
+
+.top_left {
+
+    display: flex;
+
+}
+
+.dark {
+    padding-left: 10px;
+}
+
+
+.top_title {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.top_adjust {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+}
+
+
+.main {
+    margin: 0 auto;
+    background: #202C36;
+    width: 1440px;
+    height: 160px;
+    padding: 50px 80px;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.search {
+    width: 480px;
+    height: 56px;
+    border-radius: 5px;
+    background: #2B3844;
+
+    padding: 30px;
+
+    display: flex;
+    align-items: center;
+
+
+
+}
+
+.img {
+    width: 18px;
+    height: 18px;
+    color: #FFF;
+
+}
+
+.search_text {
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+
+    padding-left: 20px;
+}
+
+.region_opt {
+    width: 200px;
+    height: 56px;
+    border-radius: 5px;
+    background: #2B3844;
+    padding: 20px;
+
+    display: flex;
+}
+
+.ind {
+    padding-left: 20px;
+}
+
+
+.main_cont {
+    width: 1440px;
+    height: 450px;
+    margin: 0 auto;
+    background: #202C36;
+
+    padding: 50px 80px;
+
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.germany {
+    width: 266px;
+    height: 336px;
+    border-radius: 5px;
+    background: #2B3844;
+    margin-left: 74px;
+
+}
+
+.german {
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 26px;
+    margin: 24px 163px 16px 24px;
+}
+
+.text {
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16px;
+    margin: 16px 91px 2px 24px;
+}
+
+.text1 {
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16px;
+    margin-left: 24px;
+    margin-bottom: 3px;
+}
+
+.america {
+    width: 266px;
+    height: 336px;
+    border-radius: 5px;
+    background: #2B3844;
+    margin-left: 70px;
+
+
+
+}
+
+.flag_americ {
+    width: 266px;
+    height: 160px;
+
+}
+
+.american {
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 26px;
+    margin-top: 24px;
+    margin-left: 24px;
+}
+
+
+.main_cont2 {
+    width: 1440px;
+    height: 450px;
+    margin: 0 auto;
+    background: #202C36;
+
+    padding: 50px 80px;
+
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.main_germany {
+    width: 1440px;
+    height: 150px;
+    margin: 0 auto;
+    background: #202C36;
+
+    padding: 50px 80px;
+}
+
+.main_german2 {
+    width: 1440px;
+    height: 750px;
+    margin: 0 auto;
+    background: #202C36;
+
+    padding: 50px 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.buton {
+    display: flex;
+    align-items: center;
+
+    width: 136px;
+    height: 40px;
+
+    border-radius: 6px;
+    background: #2B3844;
+
+    padding-left: 37px;
+
+    margin-bottom: 80px;
+}
+
+.back {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 20px;
+
+    display: flex;
+}
+
+.indicator {
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+}
+
+.german_flag {
+    width: 559.715px;
+    height: 483.169px;
+
+    margin-right: 145px;
+}
+
+
+
+.left {
+
+    border: 2px red solid;
+    border: none;
+    width: 574px;
+    height: 323px;
+
+}
+
+.title {
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: normal;
+}
+
+
+
+.text {
+
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 32px;
+}
+
+
+
